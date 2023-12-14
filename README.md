@@ -1,4 +1,5 @@
-Hi 👋 My name is Azizbek Kubanychbek uulu
+Hi 👋 My name is Azizbek Kubanychbek uulu.
+
 I am Flutter developer
 =========================================
 
