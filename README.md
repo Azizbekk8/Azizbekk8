@@ -1,6 +1,5 @@
 Hi 👋 My name is Azizbek Kubanychbek uulu.
 
-I am Flutter developer
 =========================================
 
 * 🖥️  See my portfolio at [https://github.com/Azizbekk8](http://github.com/Azizbekk8)
